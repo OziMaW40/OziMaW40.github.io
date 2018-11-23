@@ -1,0 +1,28 @@
+body {
+  background-color: red;
+  color: white
+}
+
+td, th {
+  background-color: yellow;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+h1{
+  color: black;
+}
+p{
+  font-family: verdana,Geneva,sans-serif;
+  font-size: 15px;
+}
+img{
+  width:200px;
+}
+iframe{
+  width:560px;
+}
+iframe{
+  height:315;
+}
